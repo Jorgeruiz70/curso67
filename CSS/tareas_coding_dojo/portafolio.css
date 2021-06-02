@@ -1,0 +1,46 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+#container {
+    width: 900px;
+    height: 0px auto;
+    padding: 10px;
+}
+
+.titulo1 {
+    display: inline-block;
+}
+
+.titulo2 {
+    display: inline-block;
+    margin-left: 350px;
+    margin-bottom: 16px;
+}
+
+#main {
+    background-color: #5f4a54;
+    margin-bottom: 70px;
+    min-height: 730px;
+}
+
+.imagen1 {
+    width: 342px;
+    height: 250px;
+    padding: 0px;
+    border: 7px solid #bcbcbc;
+    margin-left: 15px;
+    margin-top: 15px;
+    display: inline-block;
+    vertical-align: top;
+}
+
+.about {
+    min-height: 200px;
+    width: 250px;
+    background-color: grey;
+    display: inline-block;
+    vertical-align: top;
+    padding: 10px;
+}
