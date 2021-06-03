@@ -1,7 +1,6 @@
 * {
     margin: 0px;
     padding: 0px;
-    outline: 1px dotted red;
 }
 
 #container {
@@ -9,6 +8,7 @@
     height: 1100px;
     padding: 10px;
     text-align: left;
+    margin-left: 265px;
 }
 
 .titulo1 {
